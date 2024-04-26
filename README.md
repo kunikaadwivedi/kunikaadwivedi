@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me [...](https://www.linkedin.com/in/kunikaa-dwivedi-429610242/)
 - 😄 Pronouns: She
-- ⚡ Fun fact: i like to dance
 
 <!---
 kunikaadwivedi/kunikaadwivedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
